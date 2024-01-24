@@ -1,4 +1,4 @@
-<img src = "" width = "325px" align = "right">
+<img src = "giphy.gif" width = "325px" align = "right">
 
 # ❤ Hello, I'm Eduardo!
   <div id="badges">

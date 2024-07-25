@@ -10,7 +10,7 @@
   </a> 
 </div> <br>
 
-Sou um Aspirante a Desenvolvedor, amo desenvolver o Backend <br>
+Sou um desenvolvedor Full-stack, amo desenvolver o Backend <br>
 mas nas telinhas eu não passo vergonha. 🤓🖖
 
 - 👨‍🎓 Estudante de desenvolvimento de software

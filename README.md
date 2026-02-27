@@ -28,11 +28,3 @@ mas nas telinhas eu não passo vergonha. 🤓🖖
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MYSQL" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQUERY" width="50" height="50"/>&nbsp;
 </div>
-
----
-
-
-<div align = "left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardin-Dev&theme=midnight-purple&show_icons=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardin-Dev&show_icons=true&theme=midnight-purple&count_private=true"/>
-</div>
